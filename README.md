@@ -1,3 +1,3 @@
 <p align="center">
-  I'm @Lip#1337,<br> a self-taught developer
+  <sup>I'm @Lip#1337,<br> a self-taught developer</sup>
 </p>
